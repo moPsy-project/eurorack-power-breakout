@@ -2,6 +2,11 @@
 
 > Breakout board for Eurorack power on the breadboard
 
+* Reverse polarity protection diodes
+* Basic filtering on the power supply lines
+* Selection for 5V/GND on one of the power rails
+* Breakout for CV and Gate line from the extended bus
+* Uses THT for easy assembly
 
 ## License
 
