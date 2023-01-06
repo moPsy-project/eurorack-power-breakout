@@ -1482,7 +1482,7 @@
     (uuid 00a48ef9-8fa9-40bd-ad94-6322610078f7)
     (property "Reference" "FB1" (id 0) (at 93.9292 24.13 90))
     (property "Value" "FerriteBead" (id 1) (at 93.9292 26.67 90))
-    (property "Footprint" "Resistor_THT:R_Box_L14.0mm_W5.0mm_P9.00mm" (id 2) (at 93.98 33.528 90)
+    (property "Footprint" "mopsy:FBeadL4D4" (id 2) (at 93.98 33.528 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 93.98 31.75 0)
@@ -1572,7 +1572,7 @@
     (uuid 1b83d50a-80e8-4485-8237-4b3b28ca0d01)
     (property "Reference" "FB2" (id 0) (at 93.9292 43.1886 90))
     (property "Value" "FerriteBead" (id 1) (at 93.9292 45.7255 90))
-    (property "Footprint" "Resistor_THT:R_Box_L14.0mm_W5.0mm_P9.00mm" (id 2) (at 93.98 51.308 90)
+    (property "Footprint" "mopsy:FBeadL4D4" (id 2) (at 93.98 51.308 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 93.98 49.53 0)
@@ -1812,7 +1812,7 @@
     (uuid a28ec12b-5b10-44a8-816c-67ee7da43182)
     (property "Reference" "FB3" (id 0) (at 93.98 69.85 90))
     (property "Value" "FerriteBead" (id 1) (at 93.98 72.39 90))
-    (property "Footprint" "Resistor_THT:R_Box_L14.0mm_W5.0mm_P9.00mm" (id 2) (at 93.98 66.548 90)
+    (property "Footprint" "mopsy:FBeadL4D4" (id 2) (at 93.98 66.548 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 93.98 64.77 0)
@@ -2145,13 +2145,13 @@
       (reference "D6") (unit 1) (value "1N5817") (footprint "Diode_THT:D_DO-41_SOD81_P7.62mm_Horizontal")
     )
     (path "/00a48ef9-8fa9-40bd-ad94-6322610078f7"
-      (reference "FB1") (unit 1) (value "FerriteBead") (footprint "Resistor_THT:R_Box_L14.0mm_W5.0mm_P9.00mm")
+      (reference "FB1") (unit 1) (value "FerriteBead") (footprint "mopsy:FBeadL4D4")
     )
     (path "/1b83d50a-80e8-4485-8237-4b3b28ca0d01"
-      (reference "FB2") (unit 1) (value "FerriteBead") (footprint "Resistor_THT:R_Box_L14.0mm_W5.0mm_P9.00mm")
+      (reference "FB2") (unit 1) (value "FerriteBead") (footprint "mopsy:FBeadL4D4")
     )
     (path "/a28ec12b-5b10-44a8-816c-67ee7da43182"
-      (reference "FB3") (unit 1) (value "FerriteBead") (footprint "Resistor_THT:R_Box_L14.0mm_W5.0mm_P9.00mm")
+      (reference "FB3") (unit 1) (value "FerriteBead") (footprint "mopsy:FBeadL4D4")
     )
     (path "/50923a30-a42f-49a8-b25b-9345f9acde60"
       (reference "J1") (unit 1) (value "upper") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical")
