@@ -5,6 +5,13 @@
   )
 
   (paper "A4")
+  (title_block
+    (title "Eurorack Power Breakout")
+    (date "2023-01-06")
+    (rev "v1")
+    (company "moPsy")
+  )
+
   (layers
     (0 "F.Cu" signal)
     (31 "B.Cu" signal)
@@ -1792,6 +1799,9 @@
   (gr_line (start 147.574 113.792) (end 149.098 113.792) (layer "Edge.Cuts") (width 0.1) (tstamp e8bbe72b-f378-404a-9aac-d7dada3696b5))
   (gr_line (start 127 90.17) (end 127 129.54) (layer "Edge.Cuts") (width 0.1) (tstamp ef3c570c-7391-47fa-8459-87c13f0f59e0))
   (gr_line (start 149.352 113.538) (end 149.098 113.792) (layer "Edge.Cuts") (width 0.1) (tstamp f7486de3-81c8-4bac-b9ae-504cf0a91d50))
+  (gr_text "v1" (at 136.525 135.255 90) (layer "B.SilkS") (tstamp 77cbba89-c0a4-43d8-9b07-cbce4aeae3a8)
+    (effects (font (size 0.8 0.8) (thickness 0.1)) (justify mirror))
+  )
   (gr_text "https://github.com/moPsy-project/eurorack-power-breakout" (at 134.62 116.84 90) (layer "B.SilkS") (tstamp adc0826b-f1bf-46b6-872e-f4535dfe79be)
     (effects (font (size 0.8 0.8) (thickness 0.1)) (justify mirror))
   )
