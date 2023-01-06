@@ -8,6 +8,12 @@
 * Breakout for CV and Gate line from the extended bus
 * Uses THT for easy assembly
 
+
+## Dependencies
+
+This project uses symbols from the [moPsy-KiCad-resources](https://github.com/moPsy-project/moPsy-KiCad-resources).
+
+
 ## License
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
