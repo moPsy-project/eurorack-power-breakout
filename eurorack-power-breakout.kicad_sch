@@ -1720,7 +1720,7 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 61fcdbc8-bc9f-4e74-8240-427d96e570ba)
     (property "Reference" "R2" (id 0) (at 181.61 44.8142 90))
-    (property "Value" "1k" (id 1) (at 181.61 47.3511 90))
+    (property "Value" "10k" (id 1) (at 181.61 47.3511 90))
     (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" (id 2) (at 181.61 51.308 90)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -1766,7 +1766,7 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 9a7a7de6-3e7c-42c3-921a-1d645173d892)
     (property "Reference" "R1" (id 0) (at 181.61 30.8442 90))
-    (property "Value" "470R" (id 1) (at 181.61 33.3811 90))
+    (property "Value" "10k" (id 1) (at 181.61 33.3811 90))
     (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" (id 2) (at 181.61 37.338 90)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -2041,7 +2041,7 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid f35bba62-853e-46c3-b30c-e60993bdbe3c)
     (property "Reference" "R3" (id 0) (at 181.61 57.5142 90))
-    (property "Value" "1k" (id 1) (at 181.61 60.0511 90))
+    (property "Value" "22k" (id 1) (at 181.61 60.0511 90))
     (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" (id 2) (at 181.61 64.008 90)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -2169,13 +2169,13 @@
       (reference "J4") (unit 1) (value "PWR") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x08_P2.54mm_Vertical")
     )
     (path "/9a7a7de6-3e7c-42c3-921a-1d645173d892"
-      (reference "R1") (unit 1) (value "470R") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
+      (reference "R1") (unit 1) (value "10k") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
     )
     (path "/61fcdbc8-bc9f-4e74-8240-427d96e570ba"
-      (reference "R2") (unit 1) (value "1k") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
+      (reference "R2") (unit 1) (value "10k") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
     )
     (path "/f35bba62-853e-46c3-b30c-e60993bdbe3c"
-      (reference "R3") (unit 1) (value "1k") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
+      (reference "R3") (unit 1) (value "22k") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal")
     )
     (path "/2d5b2947-5884-4c1a-aa18-0b798ff0df82"
       (reference "SW1") (unit 1) (value "SW_SPDT") (footprint "mopsy:Switch_SPDT_NK236")
