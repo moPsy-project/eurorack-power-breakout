@@ -13,6 +13,7 @@
 
 This project uses symbols from the [moPsy-KiCad-resources](https://github.com/moPsy-project/moPsy-KiCad-resources).
 
+Please note that the paths in the `-lib-table` files most likely do not fit your setup and need to be adapted.
 
 ## License
 
